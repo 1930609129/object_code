@@ -1,0 +1,17 @@
+# ninja log v5
+63	318	6751599417743633	CMakeFiles/object.dir/q_stack.c.obj	2f734f5dce1960fe
+1	264	6751599417286007	CMakeFiles/object.dir/main.c.obj	c138d2b3264927c2
+22	263	6751599417205732	CMakeFiles/object.dir/stack.c.obj	3a7a0a745e3bd529
+25	323	6751599417899889	CMakeFiles/object.dir/list.c.obj	53648d8b5a041f
+342	550	6751599420061403	object.exe	655801cc9f8578c0
+34	272	6751599417386795	CMakeFiles/object.dir/link.c.obj	496d7378701423e2
+31	272	6751599417406995	CMakeFiles/object.dir/queue.c.obj	67379f868317cbc5
+28	273	6751599417406995	CMakeFiles/object.dir/DLink.c.obj	4fbb648224fb2bca
+0	369	6751602894473378	build.ninja	c95c49a41786d6a4
+37	321	6751599417743633	CMakeFiles/object.dir/dict.c.obj	638f7df06be229fe
+47	334	6751599417899889	CMakeFiles/object.dir/CString.c.obj	3145f62606b7f8f
+53	252	6751599416863254	CMakeFiles/object.dir/hash.c.obj	6d89ad3a8e6df540
+5	170	6751600929017991	CMakeFiles/object.dir/set.c.obj	8a2a6674dd475f8
+43	294	6751599417587298	CMakeFiles/object.dir/vector.c.obj	c80fbfb23070371f
+68	310	6751599417743633	CMakeFiles/object.dir/q_queue.c.obj	7459e62c44f565f0
+171	460	6751600932026054	libobject.a	bc4e6016228b10d
